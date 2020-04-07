@@ -1,6 +1,10 @@
 html{
-    background-color: rgb(71, 71, 71);
+    background-color: rgba(0, 0, 0, 0.76);
     color: white;
     margin: 0;
     padding: 0;
+}
+
+body{
+    padding: 10px;
 }
